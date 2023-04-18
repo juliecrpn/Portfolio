@@ -1,0 +1,252 @@
+/* Homepage */
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.contaainer {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.header-textt {
+    padding-top: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.logo {
+    padding-top: 50px;
+}
+
+.is-style-wide {
+    width: 930px;
+    opacity: 0.1;
+}
+
+.part1 {
+    padding-bottom: 50px;
+}
+
+.is-style-default {
+    justify-items: center;
+    padding-left: 200px;
+    padding-right: 250px;
+}
+
+.button {
+    padding-top: 10px;
+    padding-bottom: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.menu {
+    padding-top: 30px;
+    font-family: Didot;
+    padding-left: 320px;
+    padding-right: 320px;
+}
+
+.photos {
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 20px;
+}
+
+.MyProjects{
+    padding-right: 90px;
+    padding-left: 260px;
+    padding-right: 215px; 
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+}
+
+.header3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+}
+
+.text1 {
+    line-height: 20px;
+}
+
+.text2 {
+    line-height: 20px;
+}
+
+.citation {
+    padding-right: 230px;
+    padding-left: 225px;
+    padding-top: 30px;
+}
+
+/* About page */
+
+.skillsHeader {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.skillsBody {
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.whatIdo {
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 50px;
+}
+
+.aboutme1{
+    line-height: 20px;
+}
+
+.aboutme2{
+    line-height: 20px;
+}
+
+.moreaboutme {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    padding-left: 250px;
+    padding-right: 370px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.video {
+    padding-bottom: 10px;
+}
+
+.headerskills {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+}
+
+/* Work page */
+
+.part3 {
+    padding-right: 200px;
+    padding-left: 225px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    align-items: baseline;
+}
+
+.part4 {
+    padding-right: 225px;
+    padding-left: 230px;
+    padding-top: 30px;
+    align-items: baseline;
+}
+
+.h2 {
+    font-family: Impact;
+    font-size: 35px;
+}
+
+/* Contact page */
+
+.wpforms-form button[type=submit] {
+    background-color: #728574 !important;
+    border-color: #728574 !important;
+    color: #fff !important;
+    transition: background 0.3s ease-in-out;
+}
+ 
+.wpforms-form button[type=submit]:hover {
+    background-color: #728574 !important;
+}
+
+.wpforms-form {
+    background-color: rgb(255, 255, 255) !important;
+    padding-left: 255px !important;
+    padding-right: 260px !important;
+}
+
+/* Votre Opticien */
+
+.cards {
+    padding-bottom: 50px;
+}
+
+.website {
+    padding-bottom: 50px;
+}
+
+/* Mario */
+
+.mariopart {
+    padding-left: 200px !important;
+    padding-right: 220px !important; 
+}
+
+.mario{
+    padding-left: 255px !important;
+    padding-right: 260px !important; 
+}
+
+.mario1{
+    padding-left: 255px !important;
+    padding-right: 260px !important; 
+    padding-bottom: 20px;
+}
+
+/* Riomaggiore */
+
+.riomaggiorepart {
+    padding-left: 200px !important;
+    padding-right: 220px !important; 
+}
+
+.riomaggiore{
+    padding-left: 255px !important;
+    padding-right: 260px !important; 
+}
+
+.riomaggiore1{
+    padding-left: 255px !important;
+    padding-right: 260px !important; 
+    padding-bottom: 20px;
+}
+
+/* Votre Opticien */
+
+.votreopticienpart {
+    padding-left: 200px !important;
+    padding-right: 220px !important; 
+}
+
+/* Avril */
+
+.avril {
+    padding-left: 200px !important;
+    padding-right: 220px !important; 
+}
+
+/* Yellowside Agency */
+
+.yellowpart {
+    padding-left: 200px !important;
+    padding-right: 220px !important; 
+}
+
+/* Saga Cosmetics */
+
+.sagapart {
+    padding-left: 200px !important;
+    padding-right: 220px !important; 
+}
+
+/* Blue Emergency */
+
+.bluepart {
+    padding-left: 200px !important;
+    padding-right: 220px !important; 
+}
